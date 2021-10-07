@@ -1,5 +1,5 @@
 # time-series-visualizer
-Visualize time series data using Pandas.
+Visualize time series data using Pandas, seaborn, and numpy.
 
 ## Goals - Use the data to complete the following tasks:
 
